@@ -1,2 +1,2 @@
 # 18IT075_Git_Calc
- Calculator app using pyqt
+ Calculator app using pyqt 18It075
